@@ -1,2 +1,2 @@
 #!/bin/bash
-README.md
+Programming in C language. 
